@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/professional-portfolio/static/css/main.ee8b5777.css",
-    "main.js": "/professional-portfolio/static/js/main.cdfc3ace.js",
+    "main.css": "/professional-portfolio/static/css/main.ee95443d.css",
+    "main.js": "/professional-portfolio/static/js/main.28e4beac.js",
     "static/media/WebScraper.png": "/professional-portfolio/static/media/WebScraper.e79b8eb79f32414e3d4a.png",
     "static/media/Me3.jpeg": "/professional-portfolio/static/media/Me3.d83b43b911ebb7175d96.jpeg",
     "static/media/Frintz-logo.png": "/professional-portfolio/static/media/Frintz-logo.24f6daac7a64060f373b.png",
@@ -12,11 +12,11 @@
     "static/media/CampusDiscovery.png": "/professional-portfolio/static/media/CampusDiscovery.4f7d5a7952760ab96601.png",
     "static/media/React.png": "/professional-portfolio/static/media/React.ef20e673b9282f8f30fd.png",
     "index.html": "/professional-portfolio/index.html",
-    "main.ee8b5777.css.map": "/professional-portfolio/static/css/main.ee8b5777.css.map",
-    "main.cdfc3ace.js.map": "/professional-portfolio/static/js/main.cdfc3ace.js.map"
+    "main.ee95443d.css.map": "/professional-portfolio/static/css/main.ee95443d.css.map",
+    "main.28e4beac.js.map": "/professional-portfolio/static/js/main.28e4beac.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee8b5777.css",
-    "static/js/main.cdfc3ace.js"
+    "static/css/main.ee95443d.css",
+    "static/js/main.28e4beac.js"
   ]
 }
